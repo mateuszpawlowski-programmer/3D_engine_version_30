@@ -19,6 +19,6 @@ Game have special stairs system that player can walk up and down.<br>
 ![alt text](https://github.com/mateuszpawlowski-programmer/3D_engine_version_30/blob/main/3d_v_30_5.png)<br>
 Another interesting flag in R_3D.java is show_collision when is set on true you can see collision model working on bounding boxes.<br>
 ![alt text](https://github.com/mateuszpawlowski-programmer/3D_engine_version_30/blob/main/3d_v_30_6.png)<br>
-Another interesting flag in R_3D.java is wire_frame when is set on true you can see wire frame model of level geometry.<br>
 ![alt text](https://github.com/mateuszpawlowski-programmer/3D_engine_version_30/blob/main/3d_v_30_7.png)<br>
+Another interesting flag in R_3D.java is wire_frame when is set on true you can see wire frame model of level geometry.<br>
 ![alt text](https://github.com/mateuszpawlowski-programmer/3D_engine_version_30/blob/main/3d_v_30_8.png)<br>
