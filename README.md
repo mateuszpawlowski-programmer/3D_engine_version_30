@@ -6,7 +6,7 @@ Renderer works using vertices and faces that are load from files .obj. And then 
 There is straight clipper method inside projection equation instead of clipping triangles. There is also few sort orders of triangles depending on distance from player. At the end triangles are drawn from farthest to nearest.<br>
 There are special doors,characters and car objects, collision model and stairs system. Of course you can shoot in game using guns :D and there is bullet projection and detection in 3d space. There is also combat Ai behavior alorithm of enemies.<br>
 I am really happy that I make this project. I hope you will enjoy it. :)<br>
-After this game I decide to make another game with intro on this engine using camera and cars animation. That game is Samurai Commando.<br>
+After this game I decide to make another game with intro on this engine using camera and cars animation. That game is [Samurai Commando.](https://github.com/mateuszpawlowski-programmer/Samurai-Commando)<br>
 <br>
 Here are some screens :) I hope you will enjoy it.<br>
 ![alt text](https://github.com/mateuszpawlowski-programmer/3D_engine_version_30/blob/main/3d_v_30_1.png)<br>
