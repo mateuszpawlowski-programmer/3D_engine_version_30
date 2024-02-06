@@ -4,7 +4,7 @@ And It works pretty well :D so i decided to make simple game on e1m1 map from do
 This project is quite big :D its something about 18500 lines of code :D.<br>
 Renderer works using vertices and faces that are load from files .obj. And then program makes triangles objects from them. After that all triangles are calculated in 3d space and projected at 2d screen space :).<br>
 There is straight clipper method inside projection equation instead of clipping triangles. There is also few sort orders of triangles depending on distance from player. At the end triangles are drawn from farthest to nearest.<br>
-There are special doors,characters and car objects, collision model and stairs system. Of course you can shoot in game using guns :D and there is bullet projection and detection in 3d space. There is also combat Ai behavior alorithm of enemies.<br>
+There are special doors,characters and car objects, collision model and stairs system. Of course you can shoot in game using guns :D and there is bullet projection and detection in 3d space. There is also combat Ai behavior algorithm of enemies.<br>
 I am really happy that I make this project. I hope you will enjoy it. :)<br>
 After this game I decide to make another game with intro on this engine using camera and cars animation. That game is [Samurai Commando.](https://github.com/mateuszpawlowski-programmer/Samurai-Commando)<br>
 <br>
